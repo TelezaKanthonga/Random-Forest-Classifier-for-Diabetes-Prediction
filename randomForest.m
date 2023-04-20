@@ -1,5 +1,5 @@
 
-%Read data
+%Read data from machine
 clc
 clear all
 close all
